@@ -1,0 +1,29 @@
+{
+  "author": "Alexander Matsievsky <alexander.matsievsky@gmx.com>",
+  "bugs": {
+    "url": "https://github.com/alexander-matsievsky/gremlin-ftw/issues"
+  },
+  "description": "Gremlin For The Web!",
+  "homepage": "https://github.com/alexander-matsievsky/gremlin-ftw#readme",
+  "keywords": [
+    "Apache",
+    "Gremlin",
+    "TinkerPop",
+    "TypeScript",
+    "Web"
+  ],
+  "license": "MIT",
+  "main": "dist/index.js",
+  "name": "gremlin-ftw",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexander-matsievsky/gremlin-ftw.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.1",
+  "devDependencies": {
+    "typescript": "^2.4.1"
+  }
+}
